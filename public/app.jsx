@@ -166,7 +166,7 @@ class App extends React.Component {
     return (
       <div className='app container'>
         <div className='row'>
-          Nav Bar
+          <NavigationBar />
         </div>
         <div className='row'>
           <div className='col-md-3 col-xs-3'>
